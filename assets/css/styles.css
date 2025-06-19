@@ -74,6 +74,7 @@ a {
    background: #e6f0ff;
    display: flex;
    flex-direction: column;
+   height: calc(100vh - 90px);
 }
 
 .navbar {
